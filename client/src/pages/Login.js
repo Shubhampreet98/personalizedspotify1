@@ -31,7 +31,6 @@ const LOGIN_URI =
 
 const Login = () => (
   <StyledLoginContainer>
-    Log In
     <StyledLoginButton href={LOGIN_URI}>
       Log in to Spotify
     </StyledLoginButton>
