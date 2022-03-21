@@ -1,7 +1,7 @@
 # personalizedspotify
 # Spotify Connected App
 
-End product of the "Build a Spotify Connected App" newline course
+End product is the "Build a Spotify Connected App". To login use this demo username - shubhampreetsingh98@gmail.com and password - Sukhdeep@123.
 
 ## Local Installation & Set Up
 
