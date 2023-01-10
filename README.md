@@ -1,7 +1,8 @@
 # personalizedspotify
 # Spotify Connected App
 
-End product is the "Build a Spotify Connected App". To login use this demo username - shubhampreetsingh98@gmail.com and password - Sukhdeep@123.
+This is a web app to visualize personalized stats of your Spotify profile data with the help of Node.js, Express, React, Styled Components, and the Spotify API. 
+To login use this demo username - shubhampreetsingh98@gmail.com and password - Sukhdeep@123.
 
 ## Local Installation & Set Up
 
