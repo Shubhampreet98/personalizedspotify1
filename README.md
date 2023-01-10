@@ -1,6 +1,9 @@
 # personalizedspotify
 # Spotify Connected App
 
+![personalized_spotify](https://user-images.githubusercontent.com/63525918/211501342-e1775c24-cd96-40b8-ace4-10feabd226a5.gif)
+
+
 This is a web app to visualize personalized stats of your Spotify profile data with the help of Node.js, Express, React, Styled Components, and the Spotify API. 
 To login use this demo username - shubhampreetsingh98@gmail.com and password - Sukhdeep@123.
 
